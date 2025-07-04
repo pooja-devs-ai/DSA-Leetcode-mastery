@@ -1,3 +1,5 @@
+# Restored after accidental deletion
+
 ''' Problem 1: First Occurrence of a Target Element
 
 Given an array of integers and a target value. 
