@@ -22,3 +22,5 @@ if target in array:
     print(f" The target element {target} is present at {result} indices.")
 else:
     print(f" The target element is not found in the array so the list all_indices is {result}.")
+
+# File restored and committed successfully
